@@ -185,7 +185,7 @@ int	main(void)
 	t_vars	vars;
 	int	x;
 	int	y;
-		double	a;
+	double	a;
 	double	b;
 	int	trgb;
 	int	is;
